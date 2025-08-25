@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Tagpi",
+    "breed": "Bulldog",
+    "age": 3,
+    "color": "Brown",
+    "gender": "Male"
+  },
+  {
+    "id": 3,
+    "name": "Dapal",
+    "breed": "Doberman",
+    "age": 4,
+    "color": "Black",
+    "gender": "Female"
+  },
+  {
+    "id": 4,
+    "name": "Putol",
+    "breed": "Bulldog",
+    "age": 3,
+    "color": "Green",
+    "gender": "Male"
+  },
+  {
+    "id": 5,
+    "name": "Chase",
+    "breed": "Poodle",
+    "age": 3,
+    "color": "Violet",
+    "gender": "Female"
+  }
+]
